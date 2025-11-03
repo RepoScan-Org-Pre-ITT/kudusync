@@ -3,7 +3,7 @@ KuduSync.NET
 
 Tool for syncing files for deployment, will only copy changed files and delete files that doesn't exists in the destination but only if they were part of the previous deployment (manifest file).
 
-This is the .NET version of [KuduSync](https://github.com/projectkudu/KuduSync).
+This is the .NET version of [KuduSync](https://github.com/projectkudu/KuduSync).dvdv
 
 ### Usage
 
